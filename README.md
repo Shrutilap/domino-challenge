@@ -60,8 +60,7 @@ Visit: (http://localhost:3000)
 
 ### 📁 Project Structure
 ```
-├── frontend/
-│   └── index.html          # Frontend application
+├── index.html             # Frontend application
 ├── main.py                 # FastAPI backend server
 ├── simulator.py            # Core simulation engine
 ├── services.json           # Service dependency configuration
