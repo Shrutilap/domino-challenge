@@ -59,7 +59,7 @@ Visit: (http://localhost:3000)
 
 
 ### 📁 Project Structure
-.
+```
 ├── frontend/
 │   └── index.html          # Frontend application
 ├── main.py                 # FastAPI backend server
@@ -68,3 +68,4 @@ Visit: (http://localhost:3000)
 ├── config.yaml            # Simulation parameters
 ├── requirements.txt        # Python dependencies
 └── README.md              # This file
+```
